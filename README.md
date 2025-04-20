@@ -16,8 +16,3 @@ Aplikasi ini dibuat menggunakan React Hooks untuk menampilkan data Pokémon seca
 - **LocalStorage/SessionStorage**: Untuk menyimpan data Pokémon di browser.
 - **CSS**: Untuk styling tampilan aplikasi.
 
-## Instalasi
-
-### Langkah 1: Kloning Repository
-```bash
-git clone https://github.com/username/repository-name.git
